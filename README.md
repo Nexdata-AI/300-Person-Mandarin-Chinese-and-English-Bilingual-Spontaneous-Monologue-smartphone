@@ -3,7 +3,7 @@
 ## Description
 Mandarin Chinese and English Bilingual Spotaneous Monologue Smartphone speech dataset, collected from dialogues based on given topics, covering generic domain. Our dataset was collected from extensive and diversify speakers(300 people in total, ages 18 to 65), geographicly speaking, enhancing model performance in real and complex tasks. Quality tested by various AI companies. We strictly adhere to data protection regulations and privacy standards, ensuring the maintenance of user privacy and legal rights throughout the data collection, storage, and usage processes, our datasets are all GDPR, CCPA, PIPL complied.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1358?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1358?source=Github
 
 
 ## Format
